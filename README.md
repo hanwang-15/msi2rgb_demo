@@ -13,6 +13,10 @@ Demo dataset from:
 
 [boazarad/ARAD_1K: ARAD_1K Spectral Image Dataset](https://github.com/boazarad/ARAD_1K)
 
+More reading:
+
+[Welcome to Bruce Lindbloom's Web Site](http://www.brucelindbloom.com/)
+
 
 
 
